@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Partage de messages</string>
+    <string name="btn_show_toast">Montre moi</string>
+    <string name="entry_message">Entrez votre message</string>
+    <string name="btn_send_data">Envoyer les données à lactivité suivante</string>
+    <string name="btn_share_apps">partager à dautres applications</string>
+    <string name="btn_recyclerView_demo">Recycler Voir la démo</string>
+    <string name="btn_was_clicked">Le bouton a été cliqué！</string>
+</resources>
